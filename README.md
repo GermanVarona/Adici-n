@@ -10,13 +10,12 @@
 
 ![P1](https://fotos.subefotos.com/b8111151a3c9f2caa322182f8a100670o.jpg)
 ### Algoritmo
-#### Notacion N-S
 - a,b,c ∈ R
 
-Leer a
 
-Leer b
-
-c ← a+b
-
-Escribir c
+|Notacion N-S|
+| ----- |
+| Leer a |
+| Leer b |
+| c ← a+b |
+| Escribir c |
