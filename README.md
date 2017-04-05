@@ -5,6 +5,8 @@
 - Se desea obtener a travez de una función el resultado de la suma de dos numeros ingresados previamente por el usuario.
 
 ### Analisis de problema
-![P1](https://fotos.subefotos.com/f4448c877fd924db5d19a84c586bbac4o.jpg)
+- a,b,c ∈ R
+- c es la suma de a y b 
+![P1](https://fotos.subefotos.com/b8111151a3c9f2caa322182f8a100670o.jpg)
 
 ### Algoritmo
