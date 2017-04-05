@@ -14,6 +14,9 @@
 - a,b,c ∈ R
 
 Leer a
+
 Leer b
+
 c ← a+b
+
 Escribir c
